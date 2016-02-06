@@ -1,0 +1,16 @@
+obj\Debug\Pingo.exe
+obj\Debug\Pingo.pdb
+bin\Debug\Pingo.exe
+bin\Debug\Pingo.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Pingo.Properties.Resources.resources
+obj\Debug\Pingo.csproj.GenerateResource.Cache
+bin\Release\Pingo.exe
+bin\Release\Pingo.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Pingo.Properties.Resources.resources
+obj\Release\Pingo.csproj.GenerateResource.Cache
+obj\Release\Pingo.exe
+obj\Release\Pingo.pdb
+obj\Debug\Pingo.Program.resources
+obj\Release\Pingo.Pingo.resources
